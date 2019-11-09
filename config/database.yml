@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  host: localhost
+  encoding: unicode
+  database: activetest_dev
+  pool: 5
+  username: postgres
+  password: server.123
